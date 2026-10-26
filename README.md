@@ -25,7 +25,7 @@ The repository will gradually cover several areas of mathematics relevant to the
 
 | Area | Focus |
 |---|---|
-| **Real Analysis & Multivariable Calculus** | Normed vector spaces, bounded linear operators, Fréchet derivatives, Taylor's theorem, and higher-dimensional differentiation |
+| **Real Analysis & basic functional analysiss** | Normed vector spaces, bounded linear operators, Fréchet derivatives, Taylor's theorem, and higher-dimensional differentiation |
 | **Probability Theory** | Rigorous foundations of probability, random variables, distributions, expectation, and conditional probability |
 | **Advanced Linear Algebra** | Spectral theory, matrix analysis, quadratic forms, and mathematical foundations of numerical methods |
 | **Optimization Theory** | Convexity, gradient-based methods, constrained optimization, and theoretical foundations of learning algorithms |
