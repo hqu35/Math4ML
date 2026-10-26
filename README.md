@@ -23,7 +23,7 @@ Rather than simply collecting definitions, theorems, and proofs, I want to under
 
 The repository will gradually cover several areas of mathematics relevant to theoretical and applied machine learning.
 
-| Area | Focus |
+| Area |
 |---|---|
 | **Real Analysis & Basic Functional Analysis** | 
 | **Probability Theory** | 
